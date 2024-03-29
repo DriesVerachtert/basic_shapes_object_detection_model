@@ -1,0 +1,11 @@
+matplotlib
+scipy
+datasets
+torch
+albumentations
+torchvision
+transformers
+timm
+transformers[torch]
+huggingface_hub
+ipywidgets
